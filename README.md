@@ -6,7 +6,7 @@ Let's work together to bring your ideas to life!
 
 #### Please visite my Portfolio website at : https://skyfall627.co.uk
 
-### Stack
+## Stack:
 
 - JavaScript
 - React
