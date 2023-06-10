@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**Skyfall627/Skyfall627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a skilled Front End Developer completing a Full Stack Engineering training to create efficient, scalable, and user-friendly solutions to solve real-world problems. 
+I have experience in JavaScript, and expertise in frameworks like React, Tailwind and Node.js. 
+Let's work together to bring your ideas to life!
 
-Here are some ideas to get you started:
+#### Please visite my Portfolio website at : https://skyfall627.co.uk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+** JavaScript
+** React
+** PHP
+** SQL
+** C#
+** Python
+** HTML
+** CSS
