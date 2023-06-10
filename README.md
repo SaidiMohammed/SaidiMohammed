@@ -8,11 +8,11 @@ Let's work together to bring your ideas to life!
 
 ### Stack
 
-** JavaScript
-** React
-** PHP
-** SQL
-** C#
-** Python
-** HTML
-** CSS
+- JavaScript
+- React
+- PHP
+- SQL
+- C#
+- Python
+- HTML
+- CSS
