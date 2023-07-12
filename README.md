@@ -10,12 +10,9 @@ Here are some of the key technologies I work with:
 
 - JavaScript
 - React
-- PHP
 - SQL
 - C#
-- Python
-- HTML
-- CSS
+- TailwindCSS
 
 Feel free to browse through my repositories and projects. 
 If you have any questions or would like to discuss potential collaboration opportunities, reach out to me throught my portfolio website!
